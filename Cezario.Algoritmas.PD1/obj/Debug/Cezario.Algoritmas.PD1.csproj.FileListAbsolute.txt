@@ -1,0 +1,10 @@
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\bin\Debug\Cezario.Algoritmas.PD1.exe.config
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\bin\Debug\Cezario.Algoritmas.PD1.exe
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\bin\Debug\Cezario.Algoritmas.PD1.pdb
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.csprojAssemblyReference.cache
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.Form1.resources
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.Properties.Resources.resources
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.csproj.GenerateResource.cache
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.csproj.CoreCompileInputs.cache
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.exe
+C:\Users\valde\source\repos\Cezario.Algoritmas.PD1\obj\Debug\Cezario.Algoritmas.PD1.pdb
